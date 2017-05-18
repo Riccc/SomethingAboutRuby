@@ -1,0 +1,2 @@
+"center".pluralize => "centers";
+"centers".singularize => "center";
