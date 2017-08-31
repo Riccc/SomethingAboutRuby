@@ -1,0 +1,13 @@
+ssh连接服务器
+
+进入服务器项目目录 cd noah_storage/noah/hisuite/
+
+pull 代码
+
+执行migration和initdata
+
+kill unicorn的master进程
+
+进入unciron配置目录 cd service_config/noah/
+
+执行unicorn启动脚本 ./unicorn_noah.sh
