@@ -1,4 +1,4 @@
-###1.Proc与lanbda的区别
+###1.Proc与lambda的区别
       return对两者的定义不同，proc的return是从proc的作用域内return，
       而lambda的return仅从这个lambda中return；lambda对参数检查比Proc严格
       
